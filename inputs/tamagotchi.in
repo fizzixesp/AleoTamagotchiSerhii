@@ -1,0 +1,23 @@
+// The program input for tamagotchi/src/main.leo
+[create]
+secret: scalar = 923482394298scalar;
+height: u32 = 160000u32;
+
+[update]
+secret: scalar = 923482394298scalar;
+
+[top_up_balance]
+secret: scalar = 923482394298scalar;
+amount: u32 = 100u32;
+
+[feed]
+secret: scalar = 923482394298scalar;
+dish: u8 = 2u8;
+
+[play]
+secret: scalar = 923482394298scalar;
+toy: u8 = 1u8;
+
+[heal]
+secret: scalar = 923482394298scalar;
+variant: u8 = 0u8;

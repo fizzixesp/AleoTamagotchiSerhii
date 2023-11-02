@@ -1,0 +1,6 @@
+{
+    "program": "tamagotchi.aleo",
+    "version": "0.1.0",
+    "description": "Virtual pet simulator: feed, play, heal, and monitor its wellbeing",
+    "license": "MIT"
+}
