@@ -102,3 +102,5 @@ A heartfelt thanks to the Aleo project for empowering decentralized applications
 ---
 
 Embrace the joy of virtual pet care reimagined with blockchain technology. Happy pet parenting!
+
+Discord fizzixesp
