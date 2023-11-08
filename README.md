@@ -1,5 +1,7 @@
 # 🐾 Tamagotchi Leo Project 🐾
 
+Discord: fizzixesp
+
 Welcome to the Tamagotchi Project, a nostalgic virtual pet blockchain game revived with the power of Aleo's Leo programming language. Nurture your digital companions in an immersive environment that combines the charm of classic Tamagotchi with modern blockchain technology.
 
 <!-- TOC -->
@@ -103,4 +105,4 @@ A heartfelt thanks to the Aleo project for empowering decentralized applications
 
 Embrace the joy of virtual pet care reimagined with blockchain technology. Happy pet parenting!
 
-Discord fizzixesp
+
